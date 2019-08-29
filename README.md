@@ -5,6 +5,7 @@
 Test Spring boot - 
 
 mvn clean install
+
 mvn spring-boot:run
 
 # Swagger ui
